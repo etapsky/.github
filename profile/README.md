@@ -1,28 +1,46 @@
+<div align="center">
+
+<img src="https://github.com/etapsky.png" width="88" alt="Etapsky logo" />
+
 # Etapsky
 
-**We build software that makes business data simple to create, exchange, and trust.**
+**Software that makes business data simple to create, exchange, and trust.**
 
-Etapsky is a technology studio based in Switzerland. We make products and open tooling across commerce, documents, and data, each built to solve one problem well.
+A Swiss technology studio building products and tools for commerce, documents, and data.
 
-## Products
+[Website](https://etapsky.com) · [Bluesky](https://bsky.app/profile/etapsky.bsky.social) · [X](https://x.com/etapsky) · [LinkedIn](https://www.linkedin.com/company/etapsky) · [Contact](mailto:contact@etapsky.com)
 
-| Product | What it is |
-|---|---|
-| [**SDF**](https://github.com/etapsky/sdf) | A source-available smart document format: spec, core kit, CLI, and demos |
-| **SwissBazaar** | E-commerce platform for the Swiss market |
+</div>
 
-## Built in the open
+---
 
-- [`sdf`](https://github.com/etapsky/sdf): the format specification and core kit
-- [`sdf-desktop`](https://github.com/etapsky/sdf-desktop): desktop app for working with SDF files
-- [`docs`](https://github.com/etapsky/docs): shared documentation
+## What we build
 
-## Principles
+| | Product | Description |
+|---|---|---|
+| 📄 | **[SDF](https://github.com/etapsky/sdf)** | A smart document format that carries its data, structure, and meaning together. Spec, core kit, CLI, and demos. |
+| 🛒 | **SwissBazaar** | An e-commerce platform built for the Swiss market. *Coming soon.* |
 
-- **Simple first.** Fewer moving parts, clearer formats.
-- **Your data stays yours.** Open formats over lock-in.
-- **Small, sharp tools.** One product, one problem.
+> Each product is independent and focused on one problem. Etapsky is the studio behind them.
 
-## Get in touch
+## SDF at a glance
 
-[etapsky.com](https://etapsky.com) · [contact@etapsky.com](mailto:contact@etapsky.com) · [X](https://x.com/etapsky) · [Bluesky](https://bsky.app/profile/etapsky.bsky.social) · [LinkedIn](https://www.linkedin.com/company/etapsky)
+- **[`sdf`](https://github.com/etapsky/sdf)**: format specification, core kit, and CLI
+- **[`sdf-desktop`](https://github.com/etapsky/sdf-desktop)**: desktop app for opening and working with SDF files
+- **[`docs`](https://github.com/etapsky/docs)**: documentation hub
+
+## How we work
+
+- **One product, one problem.** Small, sharp tools instead of sprawling suites.
+- **Open formats over lock-in.** Your data should outlive any single app.
+- **Clarity first.** Fewer moving parts, readable specs, honest licensing.
+
+## Get involved
+
+- ⭐ Star [`sdf`](https://github.com/etapsky/sdf) to follow the project
+- 🐛 Found a problem? Open an issue in the relevant repository
+- 💬 Questions or partnerships: [contact@etapsky.com](mailto:contact@etapsky.com)
+
+<div align="center">
+<sub>Made in Switzerland 🇨🇭 by Etapsky</sub>
+</div>
