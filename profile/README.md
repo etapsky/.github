@@ -41,6 +41,42 @@ A Swiss technology studio building products and tools for commerce, documents, a
 - 🐛 Found a problem? Open an issue in the relevant repository
 - 💬 Questions or partnerships: [contact@etapsky.com](mailto:contact@etapsky.com)
 
+---
+
+## Founder
+
 <div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center" width="460">
+      <br />
+      <a href="https://github.com/yunusyildiz-dev">
+        <img src="https://github.com/yunusyildiz-dev.png?size=180" width="90" height="90" alt="Yunus YILDIZ" />
+      </a>
+      <br /><br />
+      <strong>Yunus YILDIZ</strong><br />
+      <em>Founder &amp; CTO · Full Stack Developer</em><br />
+      <em>Always learning. Always building.</em>
+      <br /><br />
+      Transforming ideas into digital experiences.<br />
+      Passionate about solving real-world challenges through technology.
+      <br /><br />
+      <a href="https://github.com/yunusyildiz-dev"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://www.linkedin.com/in/yunusyildiz-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <a href="https://mastodon.social/@yunusyildiz_dev"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+      <a href="https://bsky.app/profile/yunusyildiz.dev"><img src="https://img.shields.io/badge/Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+      <br />
+      <a href="https://www.npmjs.com/~yunusyildiz"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+      <a href="https://yunusyildiz.dev"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+      <a href="mailto:mail@yunusyildiz.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+      <br /><br />
+      <sub>Built with ☕ and ❤️ · Geneva, Switzerland</sub>
+      <br /><br />
+    </td>
+  </tr>
+</table>
+
 <sub>Made in Switzerland 🇨🇭 by Etapsky</sub>
+
 </div>
