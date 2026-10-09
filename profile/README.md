@@ -1,12 +1,28 @@
-## Hi there 👋
+# Etapsky
 
-<!--
+**We build software that makes business data simple to create, exchange, and trust.**
 
-**Here are some ideas to get you started:**
+Etapsky is a technology studio based in Switzerland. We make products and open tooling across commerce, documents, and data, each built to solve one problem well.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Products
+
+| Product | What it is |
+|---|---|
+| [**SDF**](https://github.com/etapsky/sdf) | A source-available smart document format: spec, core kit, CLI, and demos |
+| **SwissBazaar** | E-commerce platform for the Swiss market |
+
+## Built in the open
+
+- [`sdf`](https://github.com/etapsky/sdf): the format specification and core kit
+- [`sdf-desktop`](https://github.com/etapsky/sdf-desktop): desktop app for working with SDF files
+- [`docs`](https://github.com/etapsky/docs): shared documentation
+
+## Principles
+
+- **Simple first.** Fewer moving parts, clearer formats.
+- **Your data stays yours.** Open formats over lock-in.
+- **Small, sharp tools.** One product, one problem.
+
+## Get in touch
+
+[etapsky.com](https://etapsky.com) · [contact@etapsky.com](mailto:contact@etapsky.com) · [X](https://x.com/etapsky) · [Bluesky](https://bsky.app/profile/etapsky.bsky.social) · [LinkedIn](https://www.linkedin.com/company/etapsky)
